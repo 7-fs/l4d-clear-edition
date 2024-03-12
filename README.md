@@ -1,63 +1,44 @@
+# Left 4 Dead - FS
 ![Left 4 Dead](https://1.bp.blogspot.com/-yuBXiGAlWgk/YFWWjrKaH4I/AAAAAAAABHE/YirLMLDtGGoGepzYMgETKCkbKLHR3iGaACLcBGAsYHQ/w1200-h630-p-k-no-nu/Left4DeadBanner.jpg)
+
 # Русский
 
-**Ссылки:**
-- L4D Оригинальные ресурсы из Steam: [Скачать](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing)
-- L4D Лаунчер: [Скачать](https://github.com/7-fs/l4d-fs/releases/download/v5.0-beta/l4d-fs.zip)
+## Ссылки:
 
-**Установка:**
+- [Купить игру на Steam](https://store.steampowered.com/app/500/Left_4_Dead/)
+- Оригинальные ресурсы L4D из Steam: [Скачать](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing)
+- Лаунчер L4D: [Скачать](https://github.com/7-fs/l4d-fs/releases/download/v5.0-beta/l4d-fs.zip)
 
-1. Прежде всего убедитесь, что у вас куплена официальная копия игры Left 4 Dead.
+## Установка:
 
-2. Скачайте архив с кеш-файлами для Left 4 Dead (не содержащими контент игры) [здесь](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing).
+1. Убедитесь, что у вас есть официальная копия игры Left 4 Dead. Если игра не приобретена, вы не сможете использовать этот лаунчер.
 
-3. Распакуйте содержимое архива в папку, где вы хотите хранить игру. Обычно это будет выглядеть так:
-   "C:/Left4Dead/"
+2. Скачайте архив с кеш-файлами для Left 4 Dead. Эти файлы не содержат контент игры, поэтому необходимо иметь официальную копию игры. [Скачать кеш-файлы](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing).
 
-4. При распаковке обязательно убедитесь, что у вас присутствуют следующие папки:
+3. После загрузки архива, распакуйте его содержимое в папку, где вы планируете хранить игру. Например, "C:/Left4Dead/".
+
+4. Убедитесь, что после распаковки кеша у вас есть следующие папки:
    - `left4dead`
    - `left4dead_dlc3`
 
-5. После распаковки кеша, переместите файлы лаунчера в ту же папку с кешем, заменяя существующие файлы (и закройте Steam, если он запущен).
+5. Переместите файлы лаунчера в папку с кешем, заменив существующие файлы. Убедитесь, что Steam закрыт перед этим действием.
 
-6. По вашему желанию вы можете установить кеш с русским языком. Для этого просто добавьте папки с суфиксом `_russian` к папкам где у вас храняться папки `left4dead` и `left4dead_dlc3`.
+6. Если вы хотите использовать русский язык в игре, добавьте папки с суффиксом `_russian` к папкам `left4dead` и `left4dead_dlc3`.
 
-7. Если вам нужно сменить язык игры, используйте .reg файлы для Windows, предоставленные в архиве.
+7. Для изменения языка игры используйте .reg файлы для Windows, которые можно найти в архиве с лаунчером.
 
-**Обновление:**
+## Обновление:
 
-Мы рекомендуем регулярно проверять наличие обновлений для игры. Для обновления лаунчера используйте версию, предоставленную в нашем [репозитории на GitHub](https://github.com/7-fs/l4d-fs).
+Рекомендуется регулярно проверять наличие обновлений. Для обновления лаунчера используйте версию из [нашего репозитория на GitHub](https://github.com/7-fs/l4d-fs).
+
+## Возможные проблемы и их решения:
+
+- **Проблема с запуском игры:** Если у вас возникают проблемы с запуском игры через лаунчер, убедитесь, что все файлы были корректно установлены в соответствии с инструкциями выше. Также убедитесь, что ваша копия игры Left 4 Dead официальная и лицензионная.
+
+- **Проблема с отображением текстур или анимаций:** Если вы столкнулись с проблемами отображения текстур или анимаций, убедитесь, что ваша копия игры и все ее компоненты были установлены правильно. Также проверьте целостность файлов кеша и перезапустите игру.
+
+- **Ошибка при обновлении лаунчера:** Если возникают ошибки при обновлении лаунчера через репозиторий GitHub, убедитесь, что у вас есть доступ к интернету и ваш антивирус или брандмауэр не блокируют доступ к ресурсам GitHub. Попробуйте также временно отключить антивирусное программное обеспечение и повторить попытку обновления.
+
+- **Не удается изменить язык игры:** Если у вас возникают проблемы с изменением языка игры, убедитесь, что вы используете .reg файлы, предоставленные вместе с лаунчером, и следуйте инструкциям по их использованию. Если проблема сохраняется, попробуйте перезапустить компьютер и повторить попытку.
 
 **Примечание: Этот проект предназначен исключительно для лиц, имеющих официально приобретенную копию игры Left 4 Dead. Мы не нарушаем лицензионное соглашение Valve, и это руководство предостерегает от любых действий, нарушающих закон.**
-
-# English
-
-**Links:**
-- L4D: [Buy the Game](https://store.steampowered.com/app/500/Left_4_Dead/)
-- L4D Original Resources from Steam: [Download](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing)
-- L4D Launcher: [Download](https://github.com/7-fs/l4d-fs/releases/download/v5.0-beta/l4d-fs.zip)
-
-**Installation:**
-
-1. First and foremost, ensure that you have purchased an official copy of the game Left 4 Dead.
-
-2. Download the cache files for Left 4 Dead (which do not contain the game content) [here](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing).
-
-3. Extract the contents of the archive into the folder where you want to store the game. Typically, this will look like:
-   "C:/Left4Dead/"
-
-4. When extracting the cache, make sure you have the following folders:
-   - `left4dead`
-   - `left4dead_dlc3`
-
-5. After extracting the cache, move the launcher files to the same folder as the cache, replacing the existing files (and close Steam if it's running).
-
-6. If you desire, you can install the cache with the Russian language. To do this, simply add folders with the suffix `_english` to the folders where you have the `left4dead` and `left4dead_dlc3` folders stored.
-
-7. If you need to change the game language, use the .reg files for Windows provided in the archive.
-
-**Update:**
-
-We recommend regularly checking for game updates. To update the launcher, use the version provided in our [GitHub repository](https://github.com/7-fs/l4d-fs).
-
-**Note: This project is intended exclusively for individuals who own an officially purchased copy of Left 4 Dead. We do not violate Valve's licensing agreement, and this guide warns against any actions that would violate the law.**
