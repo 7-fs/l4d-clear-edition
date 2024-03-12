@@ -2,15 +2,14 @@
 # Русский
 
 **Ссылки:**
-- L4D: [Купить игру](https://store.steampowered.com/app/500/Left_4_Dead/)
-- L4D Оригинальные ресурсы из Steam: [Скачать](https://drive.google.com/file/d/1UzAI1THc6-VUGi5fy57L5SrV1qUkS7rr/view?usp=sharing)
+- L4D Оригинальные ресурсы из Steam: [Скачать](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing)
 - L4D Лаунчер: [Скачать](https://github.com/7-fs/l4d-fs/releases/download/v4.0-beta/l4d_windows_v4_0.zip)
 
 **Установка:**
 
 1. Прежде всего убедитесь, что у вас куплена официальная копия игры Left 4 Dead.
 
-2. Скачайте архив с кеш-файлами для Left 4 Dead (не содержащими контент игры) [здесь](https://drive.google.com/file/d/1UzAI1THc6-VUGi5fy57L5SrV1qUkS7rr/view?usp=sharing).
+2. Скачайте архив с кеш-файлами для Left 4 Dead (не содержащими контент игры) [здесь](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing).
 
 3. Распакуйте содержимое архива в папку, где вы хотите хранить игру. Обычно это будет выглядеть так:
    "C:/Left4Dead/"
@@ -35,14 +34,14 @@
 
 **Links:**
 - L4D: [Buy the Game](https://store.steampowered.com/app/500/Left_4_Dead/)
-- L4D Original Resources from Steam: [Download](https://drive.google.com/file/d/1UzAI1THc6-VUGi5fy57L5SrV1qUkS7rr/view?usp=sharing)
+- L4D Original Resources from Steam: [Download](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing)
 - L4D Launcher: [Download](https://github.com/7-fs/l4d-fs/releases/download/v4.0-beta/l4d_windows_v4_0.zip)
 
 **Installation:**
 
 1. First and foremost, ensure that you have purchased an official copy of the game Left 4 Dead.
 
-2. Download the cache files for Left 4 Dead (which do not contain the game content) [here](https://drive.google.com/file/d/1UzAI1THc6-VUGi5fy57L5SrV1qUkS7rr/view?usp=sharing).
+2. Download the cache files for Left 4 Dead (which do not contain the game content) [here](https://drive.google.com/file/d/1SNZmZaNJhLaBk9bI8d6jyk6HmdUUkzs5/view?usp=sharing).
 
 3. Extract the contents of the archive into the folder where you want to store the game. Typically, this will look like:
    "C:/Left4Dead/"
